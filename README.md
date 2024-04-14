@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Next js**
 
-- 💬 Ask me about **front end,back end,one piece:)**
+- 💬 Ask me about **Front end,Back end,One Piece:)**
 
 - 📫 How to reach me **souvik9205@gmail.com**
 
