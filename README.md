@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Freelancing<br>🌱 I’m currently learning Kubernetes<br>💬 Ask me about Web Development, One Piece:)<br>📫 How to reach me souvik9205@gmail.com, contact@itzsouvik.com<br><br>⚡ Fun fact I love cats :)
+🔭 I’m currently working on Freelancing<br>🌱 I’m currently learning Kubernetes<br>💬 Ask me about Web Development, One Piece:)<br>📫 How to reach me souvik9205@gmail.com<br><br>⚡ Fun fact I love cats :)
 
 
 ## 🌐 Socials:
